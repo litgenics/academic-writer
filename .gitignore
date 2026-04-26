@@ -1,0 +1,28 @@
+# Environments
+backend/venv/
+.venv/
+env/
+venv/
+ENV/
+
+# API Keys & Secrets
+.env
+backend/.env
+frontend/.env
+
+# Dependencies
+node_modules/
+backend/__pycache__/
+*.pyc
+
+# Project Data
+research_projects/
+research_projects/*
+
+# Build outputs
+frontend/dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
